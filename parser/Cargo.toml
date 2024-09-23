@@ -12,7 +12,7 @@ homepage = 'https://github.com/jelmer/rust-rst'
 repository = 'https://github.com/jelmer/rust-rst'
 
 [dependencies]
-document_tree = { version = '0.4.0' }
+document_tree = { path = '../document_tree', version = '0.4.0' }
 
 anyhow = '1.0.86'
 pest = '2.1.2'
