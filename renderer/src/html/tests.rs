@@ -1,6 +1,6 @@
 use pretty_assertions::assert_eq;
 
-use rst_parser::parse;
+use uo_rst_parser::parse;
 
 use crate::html::render_html;
 

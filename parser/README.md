@@ -1,5 +1,8 @@
-`rst_parser`
-============
+`uo_rst_parser`
+==============
+
+This crate is a fork of the `rst_parser` crate, with fixes necessary
+for ``upstream-ontologist``.
 
 Part of the [`rst`][rst] crate family.
 Offers the functions `parse` and `parse_only`,
